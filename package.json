@@ -1,0 +1,28 @@
+{
+  "name": "getlocalidentbem",
+  "version": "1.0.0",
+  "description": "It makes BEM-like class names using a CSS Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-kalinichenko/getLocalIdentBem.git"
+  },
+  "keywords": [
+    "css",
+    "modules",
+    "bem",
+    "css-loader"
+  ],
+  "author": "Denis Kalinichenko <d.kalinichenkooo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denis-kalinichenko/getLocalIdentBem/issues"
+  },
+  "homepage": "https://github.com/denis-kalinichenko/getLocalIdentBem#readme",
+  "dependencies": {
+    "loader-utils": "^1.0.2"
+  }
+}
